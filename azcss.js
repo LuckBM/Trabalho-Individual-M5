@@ -1,5 +1,6 @@
 import readline from 'readline';
 import chalk from 'chalk';
+import nodemon from 'nodemon';
 
 const rl = readline.createInterface({
   input: process.stdin,
