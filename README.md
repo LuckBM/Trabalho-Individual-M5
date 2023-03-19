@@ -45,7 +45,7 @@
 $ node azcss.js
 ```
 
-<h2> Caso tudo ocorra da maneira correta o terminal devera imprimir o código desta maneira:</h2>
+<h2> Caso tudo ocorra da maneira correta o terminal deverá imprimir o código desta maneira:</h2>
 
 ![Exemplo do terminal](https://user-images.githubusercontent.com/116355056/226206586-25998d9f-5b22-4002-9391-0c43fd4eec96.png)
 
