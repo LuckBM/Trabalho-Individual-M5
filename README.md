@@ -1,8 +1,8 @@
 
-<h1 align="center"> Trabalho Individual Modulo 5
-Facilitando o dia a dia </h1>
+<h1 align="center"> Trabalho Individual do Módulo 5
+Facilitando o Dia a Dia </h1>
 
-<h3 align="center"> Proposta:
+<h3 align="center"> Proposta do Projeto:
 - Montar um código que vai receber uma lista de propriedades de CSS e vai devolver essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido a propriedade que precisamos alterar. </h3>
 
 
