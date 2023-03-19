@@ -10,8 +10,7 @@
 
 
 
-<h3 align="center"> Proposta do Projeto:
-- Montar um código que vai receber uma lista de propriedades de CSS e vai devolver essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido a propriedade que precisamos alterar. </h3>
+<h3 align="center"> Proposta do Projeto: Montar um código que vai receber uma lista de propriedades de CSS e vai devolver essa lista ordenada de A-Z. A organização do CSS ajuda a encontrar mais rápido a propriedade que precisamos alterar. </h3>
 
 
 <h2 align="center"> Tecnologias utilizadas: </h2>
