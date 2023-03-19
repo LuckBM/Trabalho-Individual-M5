@@ -1,5 +1,10 @@
 
 <h1 align="center"> Trabalho Individual do Módulo 5
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=1000&lines=+Facilitando+o+Dia+a+Dia)](https://git.io/typing-svg)
+
+
 Facilitando o Dia a Dia </h1>
 
 <h3 align="center"> Proposta do Projeto:
