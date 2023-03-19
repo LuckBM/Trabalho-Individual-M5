@@ -6,13 +6,13 @@ Proposta:
 
 Criar do Zero:
 
-- Antes de começarmos, precisamos ter o Node.js e o npm instalados em nosso sistema. Para fazer isso, basta acessar o site oficial do 
-![MIT License]((https://nodejs.org/badge/-Node.js-green.svg) e seguir as instruções de instalação. O npm já vem instalado junto com o Node.js.
+- Antes de começarmos, precisamos ter o Node.js e o npm instalados em nosso sistema. Para fazer isso, basta acessar o site oficial do ![MIT License](https://img.shields.io/badge/-Node.js-green.svg)
+ e seguir as instruções de instalação. O npm já vem instalado junto com o Node.js.
 
 - Instalação das bibliotecas readline e chalk
 Para interagir com o usuário no terminal, vamos utilizar a biblioteca readline, que nos permite ler entradas do usuário e exibir saídas no terminal. Para instalar a biblioteca readline, basta executar o seguinte comando no terminal:
 
-![MIT License](https://img.shields.io/badge/-Readline-green.svg)
+![MIT License](https://img.shields.io/badge/-Readline-blue.svg)
 
 
 ```sh
@@ -21,7 +21,7 @@ npm install readline
 
 Para colorir o texto no terminal, vamos utilizar a biblioteca chalk. Para instalar a biblioteca chalk, basta executar o seguinte comando no terminal:
 
-![MIT License](https://img.shields.io/badge/-Chalk-green.svg)
+![MIT License](https://img.shields.io/badge/-Chalk-blue.svg)
 ```sh
 npm install chalk
 ```
