@@ -11,12 +11,16 @@ Criar do Zero:
 - Instalação das bibliotecas readline e chalk
 Para interagir com o usuário no terminal, vamos utilizar a biblioteca readline, que nos permite ler entradas do usuário e exibir saídas no terminal. Para instalar a biblioteca readline, basta executar o seguinte comando no terminal:
 
+![MIT License](https://img.shields.io/badge/-Readline-green.svg)
+
+
 ```sh
 npm install readline
 ```
 
 Para colorir o texto no terminal, vamos utilizar a biblioteca chalk. Para instalar a biblioteca chalk, basta executar o seguinte comando no terminal:
 
+![MIT License](https://img.shields.io/badge/-Chalk-green.svg)
 ```sh
 npm install chalk
 ```
