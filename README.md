@@ -16,7 +16,8 @@
 <h2 align="center"> Tecnologias utilizadas: 💻 </h2>
 
 <h3 align="center"> Node.js - Chalk - Readline - Vs Code <h3>
-  
+ 
+  <h2> Passo a Passo </h2>
   
   <h2> Primeiro: Clone o repositório para seu computador </h2>
   
