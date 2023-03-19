@@ -6,7 +6,8 @@ Proposta:
 
 Criar do Zero:
 
-- Antes de começarmos, precisamos ter o Node.js e o npm instalados em nosso sistema. Para fazer isso, basta acessar o site oficial do Node.js (https://nodejs.org) e seguir as instruções de instalação. O npm já vem instalado junto com o Node.js.
+- Antes de começarmos, precisamos ter o Node.js e o npm instalados em nosso sistema. Para fazer isso, basta acessar o site oficial do 
+![MIT License]((https://nodejs.org/badge/-Node.js-green.svg) e seguir as instruções de instalação. O npm já vem instalado junto com o Node.js.
 
 - Instalação das bibliotecas readline e chalk
 Para interagir com o usuário no terminal, vamos utilizar a biblioteca readline, que nos permite ler entradas do usuário e exibir saídas no terminal. Para instalar a biblioteca readline, basta executar o seguinte comando no terminal:
