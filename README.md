@@ -1,11 +1,9 @@
 
-<h1 align="center"> Trabalho Individual do Módulo 5
-
-
+<h1 align="center"> Trabalho Individual do Módulo 5 </h1>
+<h2>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=1000&lines=+Facilitando+o+Dia+a+Dia)](https://git.io/typing-svg)
+  </h2>
 
-
-Facilitando o Dia a Dia </h1>
 
 <h3 align="center"> Proposta do Projeto:
 - Montar um código que vai receber uma lista de propriedades de CSS e vai devolver essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido a propriedade que precisamos alterar. </h3>
