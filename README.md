@@ -11,12 +11,13 @@ Facilitando o dia a dia </h1>
 <h3 align="center"> Node.js - Chalk - Readline - Vs Code <h3>
   
   
-  <h2> 1. Clone o repositório para seu computador </h2>
+  <h2> Primeiro: Clone o repositório para seu computador </h2>
+  
   ```sh
   $ git clone https://github.com/LuckBM/Trabalho-Individual-M5.git
   ```
   
-    <h2> 2. No terminal, instale as dependências</h2>
+<h2> Segundo: No terminal do Vs Code ou Node, instale as dependências</h2>
 
 ```sh
  $ npm i -dev
@@ -29,7 +30,7 @@ Facilitando o dia a dia </h1>
 ```
   
   
-  <h2> 3. Execute este código no terminal para iniciar o código.</h2>
+  <h2> Terceiro: Execute este código no terminal para iniciar o código.</h2>
   
   ```sh
 $ node azcss.js
