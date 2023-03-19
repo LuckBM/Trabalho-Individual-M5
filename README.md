@@ -26,4 +26,4 @@ Para colorir o texto no terminal, vamos utilizar a biblioteca chalk. Para instal
 npm install chalk
 ```
 
-Após isso copie o codigo do arquvo a
+Após isso copie o código 
