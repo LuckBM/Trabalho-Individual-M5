@@ -1,12 +1,14 @@
-# Trabalho-Individual-M5
-Montar um código que vai receber uma lista de propriedades de CSS e vai devolver essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido a propriedade que precisamos alterar.
+# Trabalho Individual Modulo 5
+## Facilitando o dia a dia
 
-Como usar:
+Proposta:
+- Montar um código que vai receber uma lista de propriedades de CSS e vai devolver essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido a propriedade que precisamos alterar.
 
-Instalação do Node.js e npm
-Antes de começarmos, precisamos ter o Node.js e o npm instalados em nosso sistema. Para fazer isso, basta acessar o site oficial do Node.js (https://nodejs.org) e seguir as instruções de instalação. O npm já vem instalado junto com o Node.js.
+Criar do Zero:
 
-Instalação das bibliotecas readline e chalk
+- Antes de começarmos, precisamos ter o Node.js e o npm instalados em nosso sistema. Para fazer isso, basta acessar o site oficial do Node.js (https://nodejs.org) e seguir as instruções de instalação. O npm já vem instalado junto com o Node.js.
+
+- Instalação das bibliotecas readline e chalk
 Para interagir com o usuário no terminal, vamos utilizar a biblioteca readline, que nos permite ler entradas do usuário e exibir saídas no terminal. Para instalar a biblioteca readline, basta executar o seguinte comando no terminal:
 
 ```sh
@@ -18,3 +20,5 @@ Para colorir o texto no terminal, vamos utilizar a biblioteca chalk. Para instal
 ```sh
 npm install chalk
 ```
+
+Após isso copie o codigo do arquvo a
