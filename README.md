@@ -1,10 +1,11 @@
 
 <h1 align="center"> Trabalho Individual do Módulo 5 👨‍💻 </h1> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=36&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Facilitando+o+Dia+a+Dia)](https://git.io/typing-svg)
+<h1 align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&color=000000&width=435&lines=Facilitando+o+Dia+a+Dia)](https://git.io/typing-svg)
 
-
+</h1> 
 
 
 
