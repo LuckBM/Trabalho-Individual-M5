@@ -28,12 +28,6 @@
 <h2> Segundo: No terminal do Vs Code ou Node, instale as dependências:</h2>
 
 ```sh
- $ npm i -dev
-```
-
-- Caso não funcione tente:
-
-```sh
  $ npm i
 ```
   
